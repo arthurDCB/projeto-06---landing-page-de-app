@@ -1,5 +1,4 @@
 .btn {
-
   background: #fff;
   color: var(--bg-color);
   border: 0;
@@ -54,7 +53,7 @@
     background: var(--btn-bg-color);
     -webkit-background-clip: text;
     background-clip: text;
-    color: transparent;
+    color: var(--text-color-primary);
     position: relative;
     z-index: 1;
   }
